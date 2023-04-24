@@ -1,0 +1,32 @@
+C:\Users\jucie\Desktop\EXEXEXEXEXEXEX 1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jucie\Desktop\EXEXEXEXEXEXEX 1\bin\Debug\net6.0\appsettings.json
+C:\Users\jucie\Desktop\EXEXEXEXEXEXEX 1\bin\Debug\net6.0\EXEXEXEXEXEXEX 1.exe
+C:\Users\jucie\Desktop\EXEXEXEXEXEXEX 1\bin\Debug\net6.0\EXEXEXEXEXEXEX 1.deps.json
+C:\Users\jucie\Desktop\EXEXEXEXEXEXEX 1\bin\Debug\net6.0\EXEXEXEXEXEXEX 1.runtimeconfig.json
+C:\Users\jucie\Desktop\EXEXEXEXEXEXEX 1\bin\Debug\net6.0\EXEXEXEXEXEXEX 1.dll
+C:\Users\jucie\Desktop\EXEXEXEXEXEXEX 1\bin\Debug\net6.0\EXEXEXEXEXEXEX 1.pdb
+C:\Users\jucie\Desktop\EXEXEXEXEXEXEX 1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\jucie\Desktop\EXEXEXEXEXEXEX 1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jucie\Desktop\EXEXEXEXEXEXEX 1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jucie\Desktop\EXEXEXEXEXEXEX 1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jucie\Desktop\EXEXEXEXEXEXEX 1\obj\Debug\net6.0\EXEXEXEXEXEXEX 1.csproj.AssemblyReference.cache
+C:\Users\jucie\Desktop\EXEXEXEXEXEXEX 1\obj\Debug\net6.0\EXEXEXEXEXEXEX 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jucie\Desktop\EXEXEXEXEXEXEX 1\obj\Debug\net6.0\EXEXEXEXEXEXEX 1.AssemblyInfoInputs.cache
+C:\Users\jucie\Desktop\EXEXEXEXEXEXEX 1\obj\Debug\net6.0\EXEXEXEXEXEXEX 1.AssemblyInfo.cs
+C:\Users\jucie\Desktop\EXEXEXEXEXEXEX 1\obj\Debug\net6.0\EXEXEXEXEXEXEX 1.csproj.CoreCompileInputs.cache
+C:\Users\jucie\Desktop\EXEXEXEXEXEXEX 1\obj\Debug\net6.0\EXEXEXEXEXEXEX 1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jucie\Desktop\EXEXEXEXEXEXEX 1\obj\Debug\net6.0\EXEXEXEXEXEXEX 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jucie\Desktop\EXEXEXEXEXEXEX 1\obj\Debug\net6.0\staticwebassets\msbuild.EXEXEXEXEXEXEX 1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jucie\Desktop\EXEXEXEXEXEXEX 1\obj\Debug\net6.0\staticwebassets\msbuild.build.EXEXEXEXEXEXEX 1.props
+C:\Users\jucie\Desktop\EXEXEXEXEXEXEX 1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EXEXEXEXEXEXEX 1.props
+C:\Users\jucie\Desktop\EXEXEXEXEXEXEX 1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EXEXEXEXEXEXEX 1.props
+C:\Users\jucie\Desktop\EXEXEXEXEXEXEX 1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jucie\Desktop\EXEXEXEXEXEXEX 1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jucie\Desktop\EXEXEXEXEXEXEX 1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jucie\Desktop\EXEXEXEXEXEXEX 1\obj\Debug\net6.0\scopedcss\bundle\EXEXEXEXEXEXEX 1.styles.css
+C:\Users\jucie\Desktop\EXEXEXEXEXEXEX 1\obj\Debug\net6.0\EXEXEXEXEXEXEX 1.csproj.CopyComplete
+C:\Users\jucie\Desktop\EXEXEXEXEXEXEX 1\obj\Debug\net6.0\EXEXEXEXEXEXEX 1.dll
+C:\Users\jucie\Desktop\EXEXEXEXEXEXEX 1\obj\Debug\net6.0\refint\EXEXEXEXEXEXEX 1.dll
+C:\Users\jucie\Desktop\EXEXEXEXEXEXEX 1\obj\Debug\net6.0\EXEXEXEXEXEXEX 1.pdb
+C:\Users\jucie\Desktop\EXEXEXEXEXEXEX 1\obj\Debug\net6.0\EXEXEXEXEXEXEX 1.genruntimeconfig.cache
+C:\Users\jucie\Desktop\EXEXEXEXEXEXEX 1\obj\Debug\net6.0\ref\EXEXEXEXEXEXEX 1.dll
